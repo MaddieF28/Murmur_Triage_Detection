@@ -1,0 +1,2 @@
+arm_a_overall_accuracy,arm_b_overall_accuracy,gap_b_minus_a,arm_a_hardest_phase,arm_a_hardest_phase_accuracy,arm_b_hardest_phase,arm_b_hardest_phase_accuracy,arms_agree_on_hardest_phase
+0.905,0.97,0.06499999999999995,Diastole,0.71,Diastole,0.88,True
